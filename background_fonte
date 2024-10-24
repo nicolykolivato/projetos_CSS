@@ -1,0 +1,24 @@
+h1 {
+    font-size: 50px;
+    color: darkslateblue; /* cor da fonte */
+    font-family: fantasy; /* estilo da fonte */
+    text-align: center; /* alinhamento do texto */
+    letter-spacing: 05px; /* espaçamento entre as letras */
+    /* text-shadow: 35px 35px; colocar sombra na fonte */
+    
+}
+
+h2 {
+    font-size: 35px;
+    color: deeppink;
+    font-family: cursive;
+    text-align: center;
+    letter-spacing: 05px;
+    text-decoration: wavy;
+    text-decoration-line: line-through;
+    text-decoration-color: aliceblue;
+}
+
+body {
+    background-color: thistle; /* cor do background */
+}
